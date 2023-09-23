@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Freelancing Project<br>🌱 I’m currently learning MongoDb, Node.js, Express.js, Next.js, Redis, Testing<br>👯 I’m looking to collaborate on Innovative Project<br>💬 Ask me about Front End Development , Firebase<br>📫 How to reach me abdulragib36@gmail.com<br>⚡ Fun fact Eat Sleep Code Repeat
+🔭 I'm Currently working on Freelancing Project<br>🌱 I’m Currently learning MongoDb, Node.js, Express.js, Next.js, Redis, Testing<br>👯 I’m looking to collaborate on Innovative Project<br>💬 Ask me about Front End Development , Firebase<br>📫 How to reach me abdulragib36@gmail.com<br>⚡ Fun fact Eat Sleep Code Repeat
 
 
 ## 🌐 Socials:
