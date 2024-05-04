@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm Currently Building OxiChat [Social Media Launch Soon]<br>🌱 I’m Currently Working with MongoDb, Node.js, Express.js, Next.js, Redis, Testing<br>👯 I’m looking to collaborate on Innovative Project<br>💬 Ask me about Full Stack Dev , SASS Product<br>📫 How to reach me abdulragib36@gmail.com<br>⚡ Fun fact Eat Sleep Code Repeat
+🔭 I'm Currently Building OxiChat [Social Media Launch Soon]<br>🌱 I’m Currently Working with MongoDb, Node.js, Express.js, Next.js, React Native, Redis, Testing<br>👯 I’m looking to collaborate on Innovative Project<br>💬 Ask me about Full Stack Dev , SASS Product<br>📫 How to reach me abdulragib36@gmail.com<br>⚡ Fun fact Eat Sleep Code Repeat
 
 
 ## 🌐 Socials:
